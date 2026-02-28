@@ -1,0 +1,11 @@
+# Dataset
+data/
+
+# Saved models (optionnel si tu ne veux pas les push)
+outputs/models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
